@@ -1,4 +1,4 @@
 BEAT
 liten_mus
-note
-speaker
+noot
+luidspreker
