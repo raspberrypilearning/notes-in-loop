@@ -1,6 +1,6 @@
-Create a list of notes and durations to make a tune.
+Maak een lijst met noten en hun tijdsduur om een liedje te maken.
 
-You can then use a loop to `play` the tune a note at a time:
+Je kunt vervolgens een lus gebruiken om het liedje noot voor noot `af te spelen`:
 
 --- code ---
 ---
