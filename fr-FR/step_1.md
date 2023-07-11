@@ -1,6 +1,6 @@
-Create a list of notes and durations to make a tune.
+Crée une liste de notes et de durées pour composer une mélodie.
 
-You can then use a loop to `play` the tune a note at a time:
+Tu peux alors utiliser une boucle pour `jouer` le morceau une note à la fois :
 
 --- code ---
 ---
