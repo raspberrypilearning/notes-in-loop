@@ -1,4 +1,4 @@
-BEAT
+RYTHME
 liten_mus
 note
-speaker
+haut_parleur
